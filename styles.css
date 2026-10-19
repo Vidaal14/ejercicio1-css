@@ -1,0 +1,41 @@
+body{
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+nav{
+    justify-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+li{
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+    width: 60px;
+    text-align: center;
+}
+.inicio{
+    background-color: green;
+    color: white;
+} 
+.sobremi{
+    background-color: turquoise;
+}
+.colores{
+    background-color: yellow;
+}
+.contacto{
+    background-color: pink;
+}
+.aprendiendo{
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    background-color: lightgreen;
+}
