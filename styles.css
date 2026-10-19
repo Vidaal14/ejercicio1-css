@@ -35,7 +35,36 @@ li{
 }
 .aprendiendo{
     text-align: center;
-    font-size: 30px;
     padding: 15px;
+    background-color: lightgreen;
+}
+.aprender{
+    font-size: 40px;
+}
+.btn-leer{
+    border-radius: 5px;
+    background-color: rgb(6, 105, 6);
+    color: white;
+}
+#sobre-mi{
+    background-color: lightblue;
+    text-align: center;
+    padding: 15px;
+}
+.sobre{
+    font-size: 40px;
+}
+#mis-cajas{
+    text-align: center;
+    padding: 15px;
+    background-color: beige;
+}
+.caja1{
+    background-color: pink;
+}
+.caja2{
+    background-color: lightblue;
+}
+.caja3{
     background-color: lightgreen;
 }
