@@ -1,5 +1,6 @@
 body{
     padding: 25px;
+    margin: 15px;
 }
 h1{
     text-align: center;
@@ -54,6 +55,9 @@ li{
 .sobre{
     font-size: 40px;
 }
+.cajass{
+    font-size: 40px;
+}
 #mis-cajas{
     text-align: center;
     padding: 15px;
@@ -67,4 +71,28 @@ li{
 }
 .caja3{
     background-color: lightgreen;
+}
+body{
+    background-color: white;
+}
+.contaact{
+    font-size: 40px;
+}
+#contacto{
+    color: black;
+    background-color: rgb(143, 108, 143);
+    text-align: center;
+    padding: 15px;
+}
+.btn-contact{
+    background-color: purple;
+    color: white;
+}
+.footer{
+    background-color: darkgray;
+    text-align: center;
+    padding: 3px;
+}
+section{
+    border-radius: 20px;
 }
